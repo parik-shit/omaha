@@ -1,0 +1,86 @@
+/* Frame 43 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10.67px;
+
+width: 230.22px;
+height: 47.11px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Iconex/Light/Box 3 */
+
+width: 42.67px;
+height: 42.67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Iconex/Light/Box 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Box 2 */
+
+position: absolute;
+width: 35.56px;
+height: 35.56px;
+left: 3.56px;
+top: 3.56px;
+
+
+
+/* Vector 156 */
+
+position: absolute;
+width: 35.56px;
+height: 35.56px;
+left: 3.56px;
+top: 3.56px;
+
+/* Light-gray/Light */
+border: 2.66667px solid #FEFEFE;
+
+
+/* Catalix */
+
+width: 176.89px;
+height: 47.11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 42.6667px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
